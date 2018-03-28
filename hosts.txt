@@ -104,3 +104,7 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 files.adform.net
 0.0.0.0 secure-ds.serving-sys.com
+
+# Avira popup ads
+0.0.0.0 ipm.avira.com
+0.0.0.0 notifier.avira.com
